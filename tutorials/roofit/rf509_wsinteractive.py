@@ -1,5 +1,5 @@
 ## \file
-## \ingroup tutorial_roofit
+## \ingroup tutorial_roofitcore
 ## \notebook
 ## Organization and simultaneous fits: easy interactive access to workspace contents - CINT
 ## to CLING code migration
